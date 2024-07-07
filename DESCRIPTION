@@ -1,10 +1,10 @@
 Package: simpletex
 Type: Package
 Title: Mathematical Formulas and Character Recognition
-Version: 1.0.3
+Version: 1.0.4
 Authors@R: person("Xinyuan", "Chu", email = "chuxinyuan@outlook.com", role = c("aut", "cre"))
 Maintainer: Xinyuan Chu <chuxinyuan@outlook.com>
-Date: 2024-06-26 12:29:14 UTC
+Date: 2024-07-07 08:46:16 UTC
 Description: By calling the 'SimpleTex' <https://simpletex.cn/> open API implements 
     text and mathematical formula recognition on the image, and the output formula 
     can be used directly with 'Markdown' and 'LaTeX'.
